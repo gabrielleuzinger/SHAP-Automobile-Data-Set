@@ -25,6 +25,7 @@ To access the Jupyter Notebook that I created, run in the root folder of the `ju
   .
   |-report
   |  |- SHAP - Automobile Data Set.md
+  |- data
   |- SHAP - Automobile Data Set.ipynb
   |- requirements.txt
 ```
